@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="login_username_hint_string">Username</string>
+    <string name="login_password_hint_string">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="update_button">Update</string>
+    <string name="bad_username_input">Username length must be 5-20 characters, no special characters are allowed</string>
+    <string name="bad_password_input">Password length must have at least 8 characters of at least 1 letter and 1 number</string>
+    <string name="bad_credentials">Invalid username or password</string>
+    <string name="add_new_button_text">Add new recipe</string>
+    <string name="popup_edit_recipe_name">Recipe name</string>
+    <string name="popup_edit_ingredient_name">Ingredient name</string>
+    <string name="popup_save_button">Save</string>
+    <string name="activity_recipe_ingredients_heading">Ingredients</string>
+    <string name="activity_recipe_steps_heading">Preparation steps</string>
+    <string name="edit_recipe_heading">Edit recipe</string>
+    <string name="recipe_name_hint">Recipe name</string>
+    <string name="ingredients_hint">Ingredient</string>
+    <string name="preparation_steps_hint">Preparation step</string>
+    <string name="add_ingredient_button">Add ingredient</string>
+    <string name="add_preparation_step_button">Add PReparation Step</string>
+    <string name="required_ingredients_heading">Required ingredients:</string>
+    <string name="preparation_heading">Preparation:</string>
+    <string name="delete_button">Delete</string>
+
+</resources>
